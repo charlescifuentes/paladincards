@@ -37,7 +37,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 80,
@@ -71,10 +71,67 @@
         "padding_top": 44,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_mAr4My": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_7dc3zw": {
+          "type": "caption",
+          "settings": {
+            "caption": "Twilight Masquerade",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_DfLVJY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Check Out Our Featured Pre-Orders",
+            "heading_size": "h1"
+          }
+        },
+        "text_7apNEW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems… Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_dD3bq9": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Pre-Orders",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "caption_7dc3zw",
+        "heading_DfLVJY",
+        "text_7apNEW",
+        "button_dD3bq9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/twilight-collector-bundle-1024x975.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "multicolumn_B7eL9e",
-    "featured_collection"
+    "featured_collection",
+    "image_with_text_mAr4My"
   ]
 }

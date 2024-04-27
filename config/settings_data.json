@@ -140,8 +140,8 @@
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text": "rgba(0,0,0,0)",
-          "button": "#121212",
+          "text": "#333333",
+          "button": "#1c244b",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
           "shadow": "#121212"

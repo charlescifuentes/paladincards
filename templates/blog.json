@@ -4,6 +4,7 @@
       "type": "featured-blog",
       "settings": {
         "heading": "Paladin Cards Blog",
+        "subheading": "Dive into our engaging blog, where we share the latest news, insights, and tips on Pokémon trading cards. Whether you’re a seasoned collector or a newcomer to the world of Pokémon, our expertly crafted articles cater to enthusiasts of all levels, sparking inspiration and fostering a deeper appreciation for the beloved trading card game.",
         "heading_size": "h1",
         "blog": "news",
         "post_limit": 3,

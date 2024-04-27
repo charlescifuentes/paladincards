@@ -140,7 +140,7 @@
         "settings": {
           "background": "#ffffff",
           "background_gradient": "",
-          "text": "#121212",
+          "text": "rgba(0,0,0,0)",
           "button": "#121212",
           "button_label": "#ffffff",
           "secondary_button_label": "#121212",
@@ -173,7 +173,7 @@
         "settings": {
           "background": "#467ff7",
           "background_gradient": "",
-          "text": "#ffffff",
+          "text": "#467ff7",
           "button": "#ffffff",
           "button_label": "#121212",
           "secondary_button_label": "#ffffff",
@@ -184,7 +184,7 @@
         "settings": {
           "background": "#1c5ac3",
           "background_gradient": "",
-          "text": "#ffffff",
+          "text": "#1c5ac3",
           "button": "#ffffff",
           "button_label": "#1c5ac3",
           "secondary_button_label": "#ffffff",

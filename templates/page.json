@@ -13,7 +13,7 @@
         "column_pAAWJp": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "title": "",
             "text": "<h2>About Us<\/h2><p>Founded by a disabled veteran with a passion for Pokémon trading cards, Paladin Cards has become a trusted name in the community, recognized for our unwavering commitment to customer satisfaction and exceptional service.<\/p><h2>Our Mission is Simple<\/h2><p>To provide you with the highest-quality Pokémon trading cards, unbeatable deals, and unmatched support that you deserve. By fostering a welcoming and inclusive environment for collectors of all ages and backgrounds, we’ve cultivated a loyal following and become a beloved destination for Pokémon enthusiasts..<\/p><h2>More Than Just A Business<\/h2><p>We’re a family of Pokémon lovers dedicated to sharing our passion with you. Join us on this exciting journey and experience the Paladin Cards difference.<\/p>",
             "link_label": "",
             "link": ""
@@ -23,7 +23,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Logo-v10-e1681675135795-1024x663-1.webp",
-            "title": "Column",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""

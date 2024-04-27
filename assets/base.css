@@ -886,6 +886,15 @@ summary::-webkit-details-marker {
   letter-spacing: 0.08rem;
 }
 
+.page-title, .blog__title {
+  text-align: center;
+}
+
+.title-wrapper-with-link {
+  display: flex;
+  flex-direction: column;
+}
+
 /* component-grid */
 .grid {
   display: flex;

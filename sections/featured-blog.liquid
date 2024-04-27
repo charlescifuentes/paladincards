@@ -37,6 +37,7 @@
         >
           {{ section.settings.heading }}
         </h2>
+        <p>{{ section.settings.subheading }}</p>
 
         {%- if section.settings.blog != blank
           and section.settings.show_view_all
@@ -199,6 +200,11 @@
       "id": "heading",
       "default": "Blog posts",
       "label": "t:sections.featured-blog.settings.heading.label"
+    },
+    {
+      "type": "textarea",
+      "id": "subheading",
+      "label": "Subheading"
     },
     {
       "type": "select",

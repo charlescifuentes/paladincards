@@ -172,15 +172,6 @@
     "multicolumn_mbGUVf": {
       "type": "multicolumn",
       "blocks": {
-        "column_wteDei": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/all"
-          }
-        },
         "column_yfjMme": {
           "type": "column",
           "settings": {
@@ -202,7 +193,6 @@
         }
       },
       "block_order": [
-        "column_wteDei",
         "column_yfjMme",
         "column_r3wXbt"
       ],

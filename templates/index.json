@@ -87,10 +87,74 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_McaVxN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LYpjNG": {
+          "type": "column",
+          "settings": {
+            "title": "Exceptional Customer Service",
+            "text": "<p>Experience our award-winning customer service, as our dedicated team goes above and beyond to ensure your satisfaction and address any inquiries or concerns.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BV7n38": {
+          "type": "column",
+          "settings": {
+            "title": "Unrivaled Selection",
+            "text": "<p>Explore our extensive range of Pokémon trading cards, ensuring you'll always find the perfect addition to your collection or the ideal gift for fellow enthusiasts.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KNAtwV": {
+          "type": "column",
+          "settings": {
+            "title": "Unbeatable Deals",
+            "text": "<p>Discover incredible savings on our carefully curated collection of Pokémon trading cards, as we strive to offer the best value for collectors and players alike.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7BqL4C": {
+          "type": "column",
+          "settings": {
+            "title": "Veteran-Owned and Community-Focused",
+            "text": "<p>Support a disabled veteran-owned business with a strong commitment to the Pokémon trading card community, promoting inclusivity and shared passion among collectors.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_LYpjNG",
+        "column_BV7n38",
+        "column_KNAtwV",
+        "column_7BqL4C"
+      ],
+      "settings": {
+        "title": "Why Shop With Us?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "multicolumn_K77WWi",
-    "multicolumn_7k3zWV"
+    "multicolumn_7k3zWV",
+    "multicolumn_McaVxN"
   ]
 }

@@ -1,94 +1,41 @@
 {
   "sections": {
-    "multicolumn_B7eL9e": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_xXALLJ": {
-          "type": "column",
-          "settings": {
-            "title": "Your Premier Pokémon Trading Card Destination",
-            "text": "<p>Discover the magic of Pokémon trading cards and join our thriving community of collectors and enthusiasts. Trust in our years of expertise and passion for the game, as we help you build the ultimate collection.<\/p>",
-            "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/all"
-          }
-        },
-        "column_gefpEm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Logo-v10-e1681675135795-1024x663-1.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_xXALLJ",
-        "column_gefpEm"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "scheme-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 80,
-        "padding_bottom": 80
-      }
-    },
-    "image_with_text_mAr4My": {
+    "image_with_text_cqwbgY": {
       "type": "image-with-text",
       "blocks": {
-        "caption_7dc3zw": {
-          "type": "caption",
-          "settings": {
-            "caption": "Twilight Masquerade",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "heading_DfLVJY": {
+        "heading_XCR7Uf": {
           "type": "heading",
           "settings": {
-            "heading": "Check Out Our Featured Pre-Orders",
+            "heading": "Your Premier Pokémon Trading Card Destination",
             "heading_size": "h1"
           }
         },
-        "text_7apNEW": {
+        "text_P4LkL7": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems… Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!<\/p>",
+            "text": "<p>Discover the magic of Pokémon trading cards and join our thriving community of collectors and enthusiasts. Trust in our years of expertise and passion for the game, as we help you build the ultimate collection.<\/p>",
             "text_style": "body"
           }
         },
-        "button_dD3bq9": {
+        "button_rTYFRx": {
           "type": "button",
           "settings": {
-            "button_label": "View Pre-Orders",
-            "button_link": "shopify:\/\/collections\/pre-order-1",
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "caption_7dc3zw",
-        "heading_DfLVJY",
-        "text_7apNEW",
-        "button_dD3bq9"
+        "heading_XCR7Uf",
+        "text_P4LkL7",
+        "button_rTYFRx"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/twilight-collector-bundle-1024x975.webp",
+        "image": "shopify:\/\/shop_images\/Logo-v10-e1681675135795-1024x663-1.webp",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
@@ -100,38 +47,53 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
+    "multicolumn_7k3zWV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_zHGnHJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/twilight-collector-bundle-1024x975.webp",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pbXjhU": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_zHGnHJ",
+        "column_pbXjhU"
+      ],
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
         "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 44,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
-    "multicolumn_B7eL9e",
-    "image_with_text_mAr4My",
-    "featured_collection"
+    "image_with_text_cqwbgY",
+    "multicolumn_7k3zWV"
   ]
 }

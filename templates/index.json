@@ -150,11 +150,30 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "featured_blog_wVgXYx": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Latest Events",
+        "subheading": "",
+        "heading_size": "h1",
+        "blog": "new-product-news",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "multicolumn_K77WWi",
     "multicolumn_7k3zWV",
-    "multicolumn_McaVxN"
+    "multicolumn_McaVxN",
+    "featured_blog_wVgXYx"
   ]
 }

@@ -1,48 +1,45 @@
 {
   "sections": {
-    "image_with_text_cqwbgY": {
-      "type": "image-with-text",
+    "multicolumn_K77WWi": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_XCR7Uf": {
-          "type": "heading",
+        "column_4B6yn4": {
+          "type": "column",
           "settings": {
-            "heading": "Your Premier Pokémon Trading Card Destination",
-            "heading_size": "h1"
+            "title": "",
+            "text": "<h2>Your Premier Pokémon Trading Card Destination<\/h2><p>Discover the magic of Pokémon trading cards and join our thriving community of collectors and enthusiasts. Trust in our years of expertise and passion for the game, as we help you build the ultimate collection.<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/all"
           }
         },
-        "text_P4LkL7": {
-          "type": "text",
+        "column_ybF4UH": {
+          "type": "column",
           "settings": {
-            "text": "<p>Discover the magic of Pokémon trading cards and join our thriving community of collectors and enthusiasts. Trust in our years of expertise and passion for the game, as we help you build the ultimate collection.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_rTYFRx": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all",
-            "button_style_secondary": false
+            "image": "shopify:\/\/shop_images\/Logo-v10-e1681675135795-1024x663-1.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_XCR7Uf",
-        "text_P4LkL7",
-        "button_rTYFRx"
+        "column_4B6yn4",
+        "column_ybF4UH"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Logo-v10-e1681675135795-1024x663-1.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -93,7 +90,7 @@
     }
   },
   "order": [
-    "image_with_text_cqwbgY",
+    "multicolumn_K77WWi",
     "multicolumn_7k3zWV"
   ]
 }

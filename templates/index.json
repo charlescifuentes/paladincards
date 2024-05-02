@@ -168,12 +168,57 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_mbGUVf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yfjMme": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2>More Than Just A Business<\/h2><p>At Paladin Cards, we pride ourselves on delivering an unrivaled selection of Pokémon trading cards, backed by our exceptional reputation for outstanding customer service and dependability. As a disabled veteran-owned business, we’re committed to providing you with the finest products, unbeatable deals, and unparalleled customer support.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_r3wXbt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TCG_DP_logo_EN.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_yfjMme",
+        "column_r3wXbt"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "multicolumn_K77WWi",
     "multicolumn_7k3zWV",
     "multicolumn_McaVxN",
-    "featured_blog_wVgXYx"
+    "featured_blog_wVgXYx",
+    "multicolumn_mbGUVf"
   ]
 }

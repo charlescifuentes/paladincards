@@ -54,7 +54,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/twilight-collector-bundle-1024x975.webp",
-            "title": "Column",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -65,8 +65,8 @@
           "settings": {
             "title": "",
             "text": "<p>Twilight Masquerade<\/p><h2>Check Out Our Featured Pre-Orders<\/h2><p>Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems… Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "View Pre-Orders",
+            "link": "shopify:\/\/collections\/pre-order-1"
           }
         }
       },

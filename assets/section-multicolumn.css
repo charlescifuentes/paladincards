@@ -213,11 +213,18 @@
   text-decoration: none;
   font-size: inherit;
   margin-top: 1.5rem;
+  background-color: #1C244B;
+  color: #FFFFFF;
+  padding: 12px 45px;
 }
 
 .multicolumn-card__info .icon-wrap {
   margin-left: 0.8rem;
   white-space: nowrap;
+}
+
+.multicolumn-card__info h2, .multicolumn-card__info h3 {
+  text-align: center;
 }
 
 @media screen and (min-width: 990px) {

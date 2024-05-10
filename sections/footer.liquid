@@ -151,6 +151,9 @@
                       {%- else -%}
                         {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
                       {%- endif -%}
+                      {%- if block.settings.image_text -%}
+                        <p>{{ block.settings.image_text }}</p>
+                      {%- endif -%}
                     </div>
                 {%- endcase -%}
               </div>
@@ -475,6 +478,11 @@
             }
           ],
           "default": "center"
+        },
+        {
+          "type": "textarea",
+          "id": "image_text",
+          "label": "Image text"
         }
       ]
     }

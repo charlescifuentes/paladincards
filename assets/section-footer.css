@@ -1,5 +1,5 @@
 .footer {
-  border-top: 0.1rem solid rgba(var(--color-foreground), 0.08);
+  border-top: 0.1rem solid #1a5494;
 }
 
 .footer:not(.color-scheme-1) {
@@ -9,6 +9,10 @@
 .footer__content-top {
   padding-bottom: 5rem;
   display: block;
+}
+
+.footer-block.grid__item {
+  padding: 20px;
 }
 
 @media screen and (max-width: 749px) {
@@ -41,7 +45,7 @@
 }
 
 .footer__content-bottom {
-  border-top: solid 0.1rem rgba(var(--color-foreground), 0.08);
+  border-top: solid 0.1rem #1a5494;
   padding-top: 3rem;
 }
 
@@ -384,6 +388,7 @@
 
 .footer-block-image {
   display: flex;
+  flex-direction: column;
 }
 
 .footer-block-image.left {

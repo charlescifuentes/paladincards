@@ -24,7 +24,7 @@
           "type": "text",
           "settings": {
             "heading": "",
-            "subtext": "<h3>Location<\/h3><p>13719 23 Mile Road #305<br\/>Shelby Township, MI. 48315<\/p><h3>Contact<\/h3><ul><li><a href=\"mailto:info@paladincards20.com\">Email: info@paladincards20.com<\/a><\/li><li><a href=\"tel:123-456-7890\">Phone: (866) 5-PALADIN<\/a><\/li><li>Hours: Mon-Fri 10:00AM - 9:00PM<\/li><li>Sat 11:00AM - 9:00PM<\/li><\/ul>"
+            "subtext": "<h3>Location<\/h3><p>13719 23 Mile Road #305<br\/>Shelby Township, MI. 48315<\/p><h3>Contact<\/h3><p><a href=\"mailto:info@paladincards20.com\">Email: info@paladincards20.com<\/a><\/p><p><a href=\"tel:123-456-7890\">Phone: (866) 5-PALADIN<\/a><\/p><p>Hours: Mon-Fri 10:00AM - 9:00PM<\/p><p>Sat 11:00AM - 9:00PM<\/p>"
           }
         }
       },

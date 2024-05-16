@@ -142,6 +142,10 @@
 
 .multicolumn-card__info {
   padding: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-flow: wrap;
+  justify-content: center;
 }
 
 .background-none .multicolumn-card__info {
@@ -223,7 +227,7 @@
   white-space: nowrap;
 }
 
-.multicolumn-card__info h2, .multicolumn-card__info h3 {
+.multicolumn-card__info h2, .multicolumn-card__info h3, .multicolumn-card__info p {
   text-align: center;
 }
 

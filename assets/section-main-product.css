@@ -259,6 +259,10 @@ a.product__text {
   display: none;
 }
 
+.product__title h1 {
+  font-size: 30px;
+}
+
 .product__title + .product__text.caption-with-letter-spacing {
   margin-top: -1.5rem;
 }

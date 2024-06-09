@@ -150,13 +150,13 @@
       },
       "3237956303371309727": {
         "type": "shopify:\/\/apps\/qeslider-collection-carousel\/blocks\/app-embed-block\/3d8ef1a4-7186-4a54-8889-515f497e9ba5",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "show_add_to_cart_btn": "Off",
           "atc_btn_text": "ADD TO CART",
           "checkout_btn_text": "Checkout",
-          "button_text_color": "#fff",
-          "button_bg_color": "#000",
+          "button_text_color": "#ffffff",
+          "button_bg_color": "#000000",
           "auto_slide": "Off",
           "number_image_display": 3,
           "custom_js": "",

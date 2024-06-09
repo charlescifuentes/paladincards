@@ -147,6 +147,21 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "3237956303371309727": {
+        "type": "shopify:\/\/apps\/qeslider-collection-carousel\/blocks\/app-embed-block\/3d8ef1a4-7186-4a54-8889-515f497e9ba5",
+        "disabled": false,
+        "settings": {
+          "show_add_to_cart_btn": "Off",
+          "atc_btn_text": "ADD TO CART",
+          "checkout_btn_text": "Checkout",
+          "button_text_color": "#fff",
+          "button_bg_color": "#000",
+          "auto_slide": "Off",
+          "number_image_display": 3,
+          "custom_js": "",
+          "custom_css": ""
+        }
       }
     },
     "color_schemes": {

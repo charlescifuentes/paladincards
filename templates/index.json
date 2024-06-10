@@ -240,7 +240,7 @@
     "custom_liquid_kCCX8G": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<script src=\"https:\/\/www.theshopcalendar.com\/list-widget.js\" class=\"calendar-list-widget\" data-calendar-uuid=\"039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"><\/script>\n<div id=\"theshopcalendar-list-widget-039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"><\/div>",
+        "custom_liquid": "<script src=\"https:\/\/www.theshopcalendar.com\/accordion-widget.js\" class=\"calendar-accordion-widget\" data-calendar-uuid=\"039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"><\/script>\n<div id=\"theshopcalendar-accordion-widget-039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"><\/div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52

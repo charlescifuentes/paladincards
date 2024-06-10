@@ -175,6 +175,7 @@
       "blocks": {
         "heading_eGdAqr": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Upcoming TCG Releases",
             "heading_size": "h2"
@@ -198,6 +199,7 @@
       "blocks": {
         "the_shop_calendar_the_shop_calendar_MAYPci": {
           "type": "shopify:\/\/apps\/the-shop-calendar\/blocks\/the_shop_calendar\/217451ff-da34-48a6-90b4-e904111bb75a",
+          "disabled": true,
           "settings": {
             "title": "",
             "calendar_uuid": "",

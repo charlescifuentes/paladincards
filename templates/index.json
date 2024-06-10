@@ -170,30 +170,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_zJGnMQ": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_eGdAqr": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Upcoming TCG Releases",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eGdAqr"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_mbGUVf": {
       "type": "multicolumn",
       "blocks": {
@@ -238,6 +214,29 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_zJGnMQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_eGdAqr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Upcoming TCG Releases",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eGdAqr"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 12
+      }
+    },
     "custom_liquid_kCCX8G": {
       "type": "custom-liquid",
       "settings": {
@@ -253,8 +252,8 @@
     "multicolumn_7k3zWV",
     "multicolumn_McaVxN",
     "featured_blog_wVgXYx",
-    "rich_text_zJGnMQ",
     "multicolumn_mbGUVf",
+    "rich_text_zJGnMQ",
     "custom_liquid_kCCX8G"
   ]
 }

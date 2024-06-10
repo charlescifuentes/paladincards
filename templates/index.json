@@ -194,31 +194,6 @@
         "padding_bottom": 52
       }
     },
-    "17179785054224295f": {
-      "type": "apps",
-      "blocks": {
-        "the_shop_calendar_the_shop_calendar_MAYPci": {
-          "type": "shopify:\/\/apps\/the-shop-calendar\/blocks\/the_shop_calendar\/217451ff-da34-48a6-90b4-e904111bb75a",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "calendar_uuid": "",
-            "center_header_text": false,
-            "list_calendar": false,
-            "accordion_calendar": false,
-            "width": 100,
-            "padding_top": 0,
-            "padding_bottom": 0
-          }
-        }
-      },
-      "block_order": [
-        "the_shop_calendar_the_shop_calendar_MAYPci"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "multicolumn_mbGUVf": {
       "type": "multicolumn",
       "blocks": {
@@ -262,6 +237,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "custom_liquid_kCCX8G": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script src=\"https:\/\/www.theshopcalendar.com\/list-widget.js\" class=\"calendar-list-widget\" data-calendar-uuid=\"039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"><\/script>\n<div id=\"theshopcalendar-list-widget-039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"><\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -270,7 +254,7 @@
     "multicolumn_McaVxN",
     "featured_blog_wVgXYx",
     "rich_text_zJGnMQ",
-    "17179785054224295f",
-    "multicolumn_mbGUVf"
+    "multicolumn_mbGUVf",
+    "custom_liquid_kCCX8G"
   ]
 }

@@ -4,5 +4,16 @@
     "market": "markets-pro-market"
   },
   "sections": {
+    "announcement-bar": {
+      "settings": {
+      },
+      "blocks": {
+        "announcement-bar-0": {
+          "settings": {
+            "text": "No Surprise Duty or Fees"
+          }
+        }
+      }
+    }
   }
 }

@@ -36,6 +36,20 @@
       </div>
       <div id="cart-notification-product" class="cart-notification-product"></div>
       <div class="cart-notification__links">
+
+            <!-- Route Code Edited  6/10/2024 -->
+            <div class="route-div"></div>
+            <style>
+            route-protect-widget:not([payer='no_coverage']) .pw-container::after {
+            content: "*By declining package protection, Paladin Cards is not responsible for lost, damaged, or stolen items.";
+            white-space: pre-wrap;
+            display: inline-block;
+            text-align: center;
+            font-size: 12px !important;
+            }
+            </style>
+            <!-- End Route Code -->
+        
         <a
           href="{{ routes.cart_url }}"
           id="cart-notification-button"

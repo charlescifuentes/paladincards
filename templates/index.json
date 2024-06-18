@@ -144,8 +144,8 @@
         "column_7BqL4C"
       ],
       "custom_css": [
-        "h2 {text-align: center;}",
-        "@media only screen and (max-width: 768px) {h2 {font-size: 30px; }}"
+        ".title-wrapper-with-link {align-content: center;}",
+        "@media only screen and (max-width: 768px) {.title-wrapper-with-link h2 {font-size: 30px; }}"
       ],
       "settings": {
         "title": "Why Shop With Us?",

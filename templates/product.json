@@ -19,6 +19,11 @@
             "text_style": "uppercase"
           }
         },
+        "judge_me_reviews_preview_badge_hdDVbx": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -70,6 +75,7 @@
       },
       "block_order": [
         "vendor",
+        "judge_me_reviews_preview_badge_hdDVbx",
         "title",
         "inventory_ngXFJh",
         "price",

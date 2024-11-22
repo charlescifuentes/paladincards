@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "multicolumn_K77WWi": {
@@ -16,15 +16,15 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2>Your Premier Pokémon Trading Card Destination<\/h2><p>Discover the magic of Pokémon trading cards and join our thriving community of collectors and enthusiasts. Trust in our years of expertise and passion for the game, as we help you build the ultimate collection.<\/p>",
+            "text": "<h2>Your Premier Pokémon Trading Card Destination</h2><p>Discover the magic of Pokémon trading cards and join our thriving community of collectors and enthusiasts. Trust in our years of expertise and passion for the game, as we help you build the ultimate collection.</p>",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/in-stock-1"
+            "link": "shopify://collections/in-stock-1"
           }
         },
         "column_ybF4UH": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Logo-v10-e1681675135795-1024x663-1.webp",
+            "image": "shopify://shop_images/Logo-v10-e1681675135795-1024x663-1.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -59,7 +59,7 @@
         "column_zHGnHJ": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/all.png",
+            "image": "shopify://shop_images/all.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -70,9 +70,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Surging Sparks<\/p><h2>Check Out Our Featured Pre-Orders<\/h2><p>A Growing Storm of Stellar Strength!<\/p><p>Terawatts of electricity crash down from the sky in a tropical paradise, setting the stage for the supercharged Pikachu ex! With the power of a Stellar Tera Pokémon ex, it lights up the shoreline, revealing a parade of dragon Pokémon led by the towering Alolan Exeggutor ex! Archaludon ex and Latias ex round out the horde, while new ACE SPEC cards and more new Pokémon ex bring surprises of their own. Currents crackle and dragons roar in the Pokémon TCG: Scarlet & Violet—Surging Sparks expansion!<\/p>",
+            "text": "<p>Surging Sparks</p><h2>Check Out Our Featured Pre-Orders</h2><p>A Growing Storm of Stellar Strength!</p><p>Terawatts of electricity crash down from the sky in a tropical paradise, setting the stage for the supercharged Pikachu ex! With the power of a Stellar Tera Pokémon ex, it lights up the shoreline, revealing a parade of dragon Pokémon led by the towering Alolan Exeggutor ex! Archaludon ex and Latias ex round out the horde, while new ACE SPEC cards and more new Pokémon ex bring surprises of their own. Currents crackle and dragons roar in the Pokémon TCG: Scarlet & Violet—Surging Sparks expansion!</p>",
             "link_label": "View Pre-Orders",
-            "link": "shopify:\/\/collections\/pre-order-1"
+            "link": "shopify://collections/pre-order-1"
           }
         }
       },
@@ -104,7 +104,7 @@
           "type": "column",
           "settings": {
             "title": "Exceptional Customer Service",
-            "text": "<p>Experience our award-winning customer service, as our dedicated team goes above and beyond to ensure your satisfaction and address any inquiries or concerns.<\/p>",
+            "text": "<p>Experience our award-winning customer service, as our dedicated team goes above and beyond to ensure your satisfaction and address any inquiries or concerns.</p>",
             "link_label": "",
             "link": ""
           }
@@ -113,7 +113,7 @@
           "type": "column",
           "settings": {
             "title": "Unrivaled Selection",
-            "text": "<p>Explore our extensive range of Pokémon trading cards, ensuring you'll always find the perfect addition to your collection or the ideal gift for fellow enthusiasts.<\/p>",
+            "text": "<p>Explore our extensive range of Pokémon trading cards, ensuring you'll always find the perfect addition to your collection or the ideal gift for fellow enthusiasts.</p>",
             "link_label": "",
             "link": ""
           }
@@ -122,7 +122,7 @@
           "type": "column",
           "settings": {
             "title": "Unbeatable Deals",
-            "text": "<p>Discover incredible savings on our carefully curated collection of Pokémon trading cards, as we strive to offer the best value for collectors and players alike.<\/p>",
+            "text": "<p>Discover incredible savings on our carefully curated collection of Pokémon trading cards, as we strive to offer the best value for collectors and players alike.</p>",
             "link_label": "",
             "link": ""
           }
@@ -131,7 +131,7 @@
           "type": "column",
           "settings": {
             "title": "Veteran-Owned and Community-Focused",
-            "text": "<p>Support a disabled veteran-owned business with a strong commitment to the Pokémon trading card community, promoting inclusivity and shared passion among collectors.<\/p>",
+            "text": "<p>Support a disabled veteran-owned business with a strong commitment to the Pokémon trading card community, promoting inclusivity and shared passion among collectors.</p>",
             "link_label": "",
             "link": ""
           }
@@ -168,7 +168,7 @@
       "type": "featured-blog",
       "disabled": true,
       "settings": {
-        "heading": "<a href=\"\/blogs\/new-product-news\" title=\"New Product News\">Upcoming TCG Releases<\/a>",
+        "heading": "<a href=\"/blogs/new-product-news\" title=\"New Product News\">Upcoming TCG Releases</a>",
         "subheading": "",
         "heading_size": "h2",
         "blog": "news",
@@ -183,33 +183,10 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_zJGnMQ": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_eGdAqr": {
-          "type": "heading",
-          "settings": {
-            "heading": "Upcoming TCG Releases",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eGdAqr"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 12
-      }
-    },
     "custom_liquid_kCCX8G": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<script src=\"https:\/\/www.theshopcalendar.com\/accordion-widget.js\" class=\"calendar-accordion-widget\" data-calendar-uuid=\"039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"><\/script>\n<div id=\"theshopcalendar-accordion-widget-039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"><\/div>",
+        "custom_liquid": "<script src=\"https://www.theshopcalendar.com/accordion-widget.js\" class=\"calendar-accordion-widget\" data-calendar-uuid=\"039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"></script>\n<div id=\"theshopcalendar-accordion-widget-039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"></div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
@@ -222,15 +199,15 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<h2>More Than Just A Business<\/h2><p>At Paladin Cards, we pride ourselves on delivering an unrivaled selection of Pokémon trading cards, backed by our exceptional reputation for outstanding customer service and dependability. As a disabled veteran-owned business, we’re committed to providing you with the finest products, unbeatable deals, and unparalleled customer support.<\/p>",
+            "text": "<h2>More Than Just A Business</h2><p>At Paladin Cards, we pride ourselves on delivering an unrivaled selection of Pokémon trading cards, backed by our exceptional reputation for outstanding customer service and dependability. As a disabled veteran-owned business, we’re committed to providing you with the finest products, unbeatable deals, and unparalleled customer support.</p>",
             "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/all"
+            "link": "shopify://collections/all"
           }
         },
         "column_r3wXbt": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/TCG_DP_logo_EN.jpg",
+            "image": "shopify://shop_images/TCG_DP_logo_EN.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -266,7 +243,6 @@
     "multicolumn_7k3zWV",
     "multicolumn_McaVxN",
     "featured_blog_wVgXYx",
-    "rich_text_zJGnMQ",
     "custom_liquid_kCCX8G",
     "multicolumn_mbGUVf"
   ]

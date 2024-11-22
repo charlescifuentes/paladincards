@@ -59,7 +59,7 @@
         "column_zHGnHJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/all.png",
+            "image": "shopify://shop_images/PokemonTCGScarletViolet--PrismaticEvolutionsEliteTrainerBox_EN-2701x2573-89e8ba1.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -70,7 +70,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Surging Sparks</p><h2>Check Out Our Featured Pre-Orders</h2><p>A Growing Storm of Stellar Strength!</p><p>Terawatts of electricity crash down from the sky in a tropical paradise, setting the stage for the supercharged Pikachu ex! With the power of a Stellar Tera Pokémon ex, it lights up the shoreline, revealing a parade of dragon Pokémon led by the towering Alolan Exeggutor ex! Archaludon ex and Latias ex round out the horde, while new ACE SPEC cards and more new Pokémon ex bring surprises of their own. Currents crackle and dragons roar in the Pokémon TCG: Scarlet & Violet—Surging Sparks expansion!</p>",
+            "text": "<h2>Check Out Our Featured Pre-Orders</h2><p>Eevee & Friends Light Up with Stellar Colors!<br/>From fluffy and fiery to freezing and fanciful, Eevee and its many Evolutions hold a special place in the hearts of Pokémon Trainers<br/>across the land! Discover their unique new powers as Stellar Tera Pokémon ex, and look for treasure of your very own across a grand<br/>gathering of Pokémon ex from Paldea and beyond. Glittering gems and hidden patterns await at the end of the rainbow in the<br/>Pokémon TCG: Scarlet & Violet—Prismatic Evolutions expansion!<br/></p>",
             "link_label": "View Pre-Orders",
             "link": "shopify://collections/pre-order-1"
           }
@@ -183,15 +183,6 @@
         "padding_bottom": 36
       }
     },
-    "custom_liquid_kCCX8G": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<script src=\"https://www.theshopcalendar.com/accordion-widget.js\" class=\"calendar-accordion-widget\" data-calendar-uuid=\"039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"></script>\n<div id=\"theshopcalendar-accordion-widget-039db1b9-30eb-489c-a5bb-ab3d2bbefe71\"></div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_mbGUVf": {
       "type": "multicolumn",
       "blocks": {
@@ -243,7 +234,6 @@
     "multicolumn_7k3zWV",
     "multicolumn_McaVxN",
     "featured_blog_wVgXYx",
-    "custom_liquid_kCCX8G",
     "multicolumn_mbGUVf"
   ]
 }

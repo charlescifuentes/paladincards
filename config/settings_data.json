@@ -164,14 +164,10 @@
         "disabled": false,
         "settings": {}
       },
-      "17931662404830155662": {
-        "type": "shopify://apps/mincart-order-limits/blocks/mincart-embed-block/e578f44f-3eec-4b0b-ac83-c7dbb9686592",
+      "1561686393582567663": {
+        "type": "shopify://apps/madgic-order-limit/blocks/limit-purchase/ad83b8ff-f1a1-4eae-9b2a-b6fe28459d93",
         "disabled": false,
-        "settings": {
-          "quick_load": false,
-          "loading_text": "Loading",
-          "custom_checkout_selector": ""
-        }
+        "settings": {}
       }
     },
     "color_schemes": {

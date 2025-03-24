@@ -18,7 +18,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Free Shipping On All Orders Over $199.",
+            "text": "Free Shipping On All Orders Over $250",
             "link": "shopify://policies/shipping-policy"
           }
         }

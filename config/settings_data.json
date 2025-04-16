@@ -173,6 +173,11 @@
         "type": "shopify://apps/blockify-fraud-blocker/blocks/app_embed/2e3e0ba5-0e70-447a-9ec5-3bf76b5ef12e",
         "disabled": false,
         "settings": {}
+      },
+      "16737336029034107302": {
+        "type": "shopify://apps/latch-member-exclusives/blocks/member-lock-basic/a2f34f0e-7ca0-44b4-a4dc-6dbf939dbb32",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {

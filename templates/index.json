@@ -240,7 +240,7 @@
             "list_calendar": false,
             "accordion_calendar": true,
             "width": 100,
-            "padding_top": 1,
+            "padding_top": 0,
             "padding_bottom": 2
           }
         }

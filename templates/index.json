@@ -227,6 +227,30 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "174633636581ff5ce5": {
+      "type": "apps",
+      "blocks": {
+        "the_shop_calendar_the_shop_calendar_3QVMYW": {
+          "type": "shopify://apps/the-shop-calendar/blocks/the_shop_calendar/217451ff-da34-48a6-90b4-e904111bb75a",
+          "settings": {
+            "title": "TCG Releases",
+            "calendar_uuid": "",
+            "center_header_text": true,
+            "list_calendar": true,
+            "accordion_calendar": false,
+            "width": 100,
+            "padding_top": 1,
+            "padding_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "the_shop_calendar_the_shop_calendar_3QVMYW"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -234,6 +258,7 @@
     "multicolumn_7k3zWV",
     "multicolumn_McaVxN",
     "featured_blog_wVgXYx",
-    "multicolumn_mbGUVf"
+    "multicolumn_mbGUVf",
+    "174633636581ff5ce5"
   ]
 }

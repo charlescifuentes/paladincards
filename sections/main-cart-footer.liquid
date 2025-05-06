@@ -77,18 +77,25 @@
               </div>
             {%- else -%}
 
-            <!-- Route Code Edited  6/10/2024 --
-            <div class="route-div"></div>
-            <style>
-            route-protect-widget:not([payer='no_coverage']) .pw-container::after {
-            content: "*By declining package protection, Paladin Cards is not responsible for lost, damaged, or stolen items.";
-            white-space: pre-wrap;
-            display: inline-block;
-            text-align: right;
-            font-size: 12px !important;
-            }
-            </style>
-            <!-- End Route Code -->
+              <!-- Route Code Edited 05/06/2025 -->
+              <div id=route-custom-checkout-wrapper>
+                <div class="route-div"></div>
+                <style>  
+                  @media screen and (max-width: 749px){
+                    #route-custom-checkout-wrapper, .cart__ctas{
+                      width: 100%;
+                      display: flex;
+                      flex-direction: column;
+                      align-items: center;
+                    }
+                    .route-div, .preferred-checkout-wrapper{
+                      width: 100%;
+                      max-width: 36rem;
+                    }
+                  }
+                </style>
+              </div>
+              <!-- End Route Code -->
             
               <div class="cart__ctas" {{ block.shopify_attributes }}>
                 <noscript>

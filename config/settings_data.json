@@ -173,6 +173,11 @@
         "type": "shopify://apps/latch-member-exclusives/blocks/member-lock-basic/a2f34f0e-7ca0-44b4-a4dc-6dbf939dbb32",
         "disabled": false,
         "settings": {}
+      },
+      "6174324309569838175": {
+        "type": "shopify://apps/smile-io/blocks/smile-shopify-app/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {

@@ -17,9 +17,9 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/PaladinPerksHeaderNoPremier_png.png",
+        "image": "shopify://shop_images/PaladinPerksHeaderNoPremier.png_optimized.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",

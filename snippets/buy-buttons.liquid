@@ -22,15 +22,6 @@
       if block.settings.show_dynamic_checkout and gift_card_recipient_feature_active == false
         assign show_dynamic_checkout = true
       endif
-
-  assign check_against_inventory = true
-  if product.selected_or_first_available_variant.inventory_management != 'shopify' or product.selected_or_first_available_variant.inventory_policy == 'continue'
-    assign check_against_inventory = false
-  endif
-  assign quantity_rule_soldout = false
-  if product.selected_or_first_available_variant.quantity_rule.min > product.selected_or_first_available_variant.inventory_quantity and check_against_inventory
-    assign quantity_rule_soldout = true
-  endif
     -%}
 
     <product-form

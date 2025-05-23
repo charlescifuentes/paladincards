@@ -154,11 +154,6 @@
         "disabled": false,
         "settings": {}
       },
-      "1561686393582567663": {
-        "type": "shopify://apps/madgic-order-limit/blocks/limit-purchase/ad83b8ff-f1a1-4eae-9b2a-b6fe28459d93",
-        "disabled": false,
-        "settings": {}
-      },
       "12439146293631897289": {
         "type": "shopify://apps/blockify-fraud-blocker/blocks/app_embed/2e3e0ba5-0e70-447a-9ec5-3bf76b5ef12e",
         "disabled": false,
@@ -174,8 +169,8 @@
         "disabled": false,
         "settings": {}
       },
-      "5439026248262864547": {
-        "type": "shopify://apps/preorder-globo/blocks/app-embed/e547a0ad-8212-4bcc-b02f-761faa9b8af2",
+      "1561686393582567663": {
+        "type": "shopify://apps/madgic-order-limit/blocks/limit-purchase/ad83b8ff-f1a1-4eae-9b2a-b6fe28459d93",
         "disabled": true,
         "settings": {}
       }

@@ -1,1 +1,68 @@
-{"sections":{"cart-items":{"type":"main-cart-items","settings":{"color_scheme":"scheme-1","padding_top":36,"padding_bottom":36}},"cart-footer":{"type":"main-cart-footer","blocks":{"subtotal":{"type":"subtotal","settings":{}},"buttons":{"type":"buttons","settings":{}}},"block_order":["subtotal","buttons"],"settings":{"color_scheme":"scheme-1","padding_top":20,"padding_bottom":40}}},"order":["cart-items","cart-footer"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "cart-items": {
+      "type": "main-cart-items",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cart-footer": {
+      "type": "main-cart-footer",
+      "blocks": {
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {}
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "subtotal",
+        "buttons"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "padding_top": 20,
+        "padding_bottom": 40
+      }
+    },
+    "1782512633c8dfa476": {
+      "type": "apps",
+      "blocks": {
+        "id_me_community_verification_app_block_BMxqty": {
+          "type": "shopify://apps/id-me-community-verification/blocks/app-block/d5b94743-37bb-4030-bcb4-b96ef384609c",
+          "settings": {
+            "offer_copy": "Active duty service members and veterans receive 10% off eligible products after secure verification through ID.me.",
+            "alignment": "center",
+            "fine_print": "",
+            "path_override": ""
+          }
+        }
+      },
+      "block_order": [
+        "id_me_community_verification_app_block_BMxqty"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "cart-items",
+    "cart-footer",
+    "1782512633c8dfa476"
+  ]
+}
